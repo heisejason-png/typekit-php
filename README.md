@@ -173,3 +173,4 @@ the issue tracker.
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+Created by Jason Scott Heise
