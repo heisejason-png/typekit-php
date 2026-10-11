@@ -173,5 +173,5 @@ the issue tracker.
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
